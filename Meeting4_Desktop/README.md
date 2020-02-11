@@ -9,7 +9,7 @@
 **Authors:**  *WalWalWalides*
 ------
 
-The Software offers a new Way for better Creating WAV packages. That means granting increased Productivity - That promises more and better Work in less Time.
+The Software offers a new Way for better Management team appointments. That means granting increased Productivity - That promises more and better Work in less Time.
 
 `Meeting4` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW ( Digital Audio Workstation) Software.
 
@@ -37,7 +37,7 @@ Principal Software Benefits:
 
 | Module | Name | 
 | --- | --- |
-|Meeting4.exe|Easy Team Management |
+|Meeting4.exe|Management team appointments|
 
 
 ------
@@ -47,7 +47,7 @@ Principal Software Benefits:
 ### Install application 
 
 
-Download Link For Meeting4 : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.0.1/MMP__Setup.exe
+Download Link For Meeting4 : https://github.com/walwalwalides/Meeting4/releases/download/V1.0.0/Meeting4__Setup.exe
 
 ------
 
