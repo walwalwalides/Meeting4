@@ -3,7 +3,7 @@
 
 ![](Meeting4_Mobile.png)
 
-`Meeting4_Mobile` is a Android Data Transfer Apps to Switch Packages Easily..
+`Meeting4_Mobile` is a Android Data Transfer Apps to Switch Packages Easily.
 
 
 **Authors:**  *WalWalWalides*
@@ -13,7 +13,7 @@ The Android App offers a new Way for better transfer WAV packages. That means gr
 
 `Meeting4_Mobile` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW ( Digital Audio Workstation) Software.
 
-The App are designed to use UDP or TCP Protocol depending on your requirements.
+
 
 
 
