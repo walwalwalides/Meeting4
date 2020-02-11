@@ -11,7 +11,7 @@
 
 The Software offers a new Way for better Management team appointments. That means granting increased Productivity - That promises more and better Work in less Time.
 
-`Meeting4` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW ( Digital Audio Workstation) Software.
+`Meeting4` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW Software.
 
 
 
