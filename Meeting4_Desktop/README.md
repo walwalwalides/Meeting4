@@ -3,7 +3,7 @@
 
 ![](View/Img/MainView.png)
 
-`MMP` is a complete Software Solution for Management Music Packages Format WAV.
+`Meeting4` is a complete Software Solution for Management appointments.
 
 
 **Authors:**  *WalWalWalides*
@@ -11,7 +11,7 @@
 
 The Software offers a new Way for better Creating WAV packages. That means granting increased Productivity - That promises more and better Work in less Time.
 
-`MMP` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW ( Digital Audio Workstation) Software.
+`Meeting4` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW ( Digital Audio Workstation) Software.
 
 
 
@@ -39,7 +39,7 @@ Principal Software Benefits:
 
 | Module | Name | 
 | --- | --- |
-|MMP.exe|Music Management Packages |
+|Meeting4.exe|Easy Team Management |
 
 
 ------
@@ -47,11 +47,9 @@ Principal Software Benefits:
 ## To Install the Software:
 
 ### Install application 
-Is it better to install Postgresql before installing the application 
 
-Download Link For Postgesql : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
-Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.0.1/MMP__Setup.exe
+Download Link For Meeting4 : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.0.1/MMP__Setup.exe
 
 ------
 
