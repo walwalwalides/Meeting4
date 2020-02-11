@@ -1,7 +1,7 @@
 # Meeting4_Desktop
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 
-![](Main/Img/MainView.png)
+![](View/Img/MainView.png)
 
 `MMP` is a complete Software Solution for Management Music Packages Format WAV.
 
