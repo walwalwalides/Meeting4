@@ -54,8 +54,7 @@ Download Link For Meeting4 : https://github.com/walwalwalides/MMP_Collection/rel
 ------
 
 ### Demo
-How to Insert Package : 
-https://www.youtube.com/watch?v=pQAahQTCvkA
+
 
 # If You Want To Donate!
 
