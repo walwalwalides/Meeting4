@@ -1,4 +1,4 @@
-# MMP
+# Meeting4_Desktop
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 
 ![](mmp_256.png)
