@@ -1,9 +1,9 @@
 # MMP_Mobile (ANDROID)
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 
-![](MMP_Mobile.png)
+![](Meeting4_Mobile.png)
 
-`MMP_Mobile` is a Android Data Transfer Apps to Switch Packages Easily..
+`Meeting4_Mobile` is a Android Data Transfer Apps to Switch Packages Easily..
 
 
 **Authors:**  *WalWalWalides*
@@ -11,7 +11,7 @@
 
 The Android App offers a new Way for better transfer WAV packages. That means granting increased Productivity - That promises more and better Work in less Time.
 
-`MMP_Mobile` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW ( Digital Audio Workstation) Software.
+`Meeting4_Mobile` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW ( Digital Audio Workstation) Software.
 
 The App are designed to use UDP or TCP Protocol depending on your requirements.
 
@@ -41,7 +41,7 @@ Principal Software Benefits:
 
 | Module | Name | 
 | --- | --- |
-|MMP_Mobile.apk|Music Management Packages(Android) |
+|Meeting4.apk|Music Management Packages(Android) |
 
 
 ------
