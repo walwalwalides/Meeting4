@@ -1,4 +1,4 @@
-# MMP_Mobile (ANDROID)
+# Meeting4_Mobile (ANDROID)
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 
 ![](Meeting4_Mobile.png)
