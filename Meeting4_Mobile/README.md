@@ -30,7 +30,7 @@ Principal Software Benefits:
       
       - Less Network Traffic.
       
-      - Offer two transport layer protocol TCP and UDP.
+      - Automated communication.
 
 
     
