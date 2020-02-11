@@ -26,8 +26,6 @@ Principal Software Benefits:
 
       - Strong resource Management and capacity Planning.
       
-      - Supports data access to PostgreSQL tables and views.
-      
       - Backup and Recovery.
 
 
