@@ -3,17 +3,17 @@
 
 ![](Meeting4_Mobile.png)
 
-`Meeting4_Mobile` is a Android Data Transfer Apps to Switch Packages Easily..
+`Meeting4_Mobile` is a Android App for Management team appointments.
 
 
 **Authors:**  *WalWalWalides*
 ------
 
-The Android App offers a new Way for better transfer WAV packages. That means granting increased Productivity - That promises more and better Work in less Time.
+The Android App offers a new Way for better Management team appointments. That means granting increased Productivity - That promises more and better Work in less Time.
 
-`Meeting4_Mobile` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW ( Digital Audio Workstation) Software.
+`Meeting4_Mobile` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different Software.
 
-The App are designed to use UDP or TCP Protocol depending on your requirements.
+
 
 
 
@@ -30,7 +30,7 @@ Principal Software Benefits:
       
       - Less Network Traffic.
       
-      - Offer two transport layer protocol TCP and UDP.
+      - Automated communication.
 
 
     
@@ -41,7 +41,7 @@ Principal Software Benefits:
 
 | Module | Name | 
 | --- | --- |
-|Meeting4.apk|Music Management Packages(Android) |
+|Meeting4.apk|Management team appointments (Android)|
 
 
 ------
@@ -50,7 +50,7 @@ Principal Software Benefits:
 
 ### Install App ( ANDROID ) 
 
-Link : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.0.0/MMP_Mobile.apk
+Link : https://github.com/walwalwalides/Meeting4/releases/download/V1.0.1/Meeting4.apk
 
 
 # If You Want To Donate!
