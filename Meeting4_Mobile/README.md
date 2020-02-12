@@ -50,7 +50,7 @@ Principal Software Benefits:
 
 ### Install App ( ANDROID ) 
 
-Link : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.0.0/MMP_Mobile.apk
+Link : https://github.com/walwalwalides/Meeting4/releases/download/V1.0.1/Meeting4.apk
 
 
 # If You Want To Donate!
