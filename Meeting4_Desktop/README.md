@@ -29,7 +29,8 @@ Principal Software Benefits:
 
       - Strong resource Management and capacity Planning.
       
-      - Generating Meeting Reports for Registration .
+      - Generating Meeting Reports for Meeting Registration .
+      
       
       - Backup and Recovery.
 
