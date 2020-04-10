@@ -4,6 +4,12 @@ Schedule a Meeting in Teams  | ANDROID & DESKTOP
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 
+![GitHub](https://img.shields.io/github/license/walwalwalides/Meeting4)
+![GitHub last commit](https://img.shields.io/github/last-commit/walwalwalides/Meeting4)
+
+[![GitHub stars](https://img.shields.io/github/stars/walwalwalides/Meeting4)](https://github.com/walwalwalides/Meeting4/stargazers)
+
+
 
 ![](Meeting4.png)
 **Authors:**  *WalWalWalides*
