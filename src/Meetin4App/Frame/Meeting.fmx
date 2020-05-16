@@ -1,0 +1,322 @@
+object fraMeeting: TfraMeeting
+  Size.Width = 348.000000000000000000
+  Size.Height = 677.000000000000000000
+  Size.PlatformDefault = False
+  object Rectangle1: TRectangle
+    Align = Client
+    Fill.Color = claWhite
+    Size.Width = 348.000000000000000000
+    Size.Height = 596.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    object TabControl1: TTabControl
+      Align = Client
+      Size.Width = 348.000000000000000000
+      Size.Height = 596.000000000000000000
+      Size.PlatformDefault = False
+      TabIndex = 1
+      TabOrder = 0
+      TabPosition = PlatformDefault
+      Sizes = (
+        348s
+        570s
+        348s
+        570s)
+      object TabItem1: TTabItem
+        CustomIcon = <
+          item
+          end>
+        IsSelected = False
+        Size.Width = 69.000000000000000000
+        Size.Height = 26.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = ''
+        TabOrder = 0
+        Text = 'TabItem1'
+        ExplicitSize.cx = 69.000000000000000000
+        ExplicitSize.cy = 26.000000000000000000
+        object Memo1: TMemo
+          Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+          DataDetectorTypes = []
+          ReadOnly = True
+          StyledSettings = [Family, FontColor]
+          TextSettings.Font.Size = 20.000000000000000000
+          TextSettings.Font.StyleExt = {00070000000000000004000000}
+          Align = Fit
+          Margins.Left = 6.000000000000000000
+          Margins.Top = 90.000000000000000000
+          Margins.Right = 6.000000000000000000
+          Size.Width = 336.000000000000000000
+          Size.Height = 149.312362670898400000
+          Size.PlatformDefault = False
+          TabOrder = 0
+          Viewport.Width = 336.000000000000000000
+          Viewport.Height = 149.300000000000000000
+        end
+        object lblRaum: TLabel
+          Align = Fit
+          StyledSettings = [Family, FontColor]
+          Margins.Left = 6.000000000000000000
+          Margins.Top = -370.000000000000000000
+          Margins.Right = 6.000000000000000000
+          Size.Width = 336.000000000000000000
+          Size.Height = 37.000000000000000000
+          Size.PlatformDefault = False
+          TextSettings.Font.Size = 20.000000000000000000
+          TextSettings.Font.StyleExt = {00070000000000000004000000}
+          Text = 'Raum'
+          TabOrder = 1
+        end
+        object cbRaum: TComboBox
+          Align = Fit
+          Items.Strings = (
+            #1043#1086#1090#1086#1074)
+          Margins.Left = 6.000000000000000000
+          Margins.Top = -300.000000000000000000
+          Margins.Right = 6.000000000000000000
+          Margins.Bottom = 3.000000000000000000
+          Size.Width = 336.000000000000000000
+          Size.Height = 36.747833251953130000
+          Size.PlatformDefault = False
+          TabOrder = 2
+          OnChange = cbRaumChange
+        end
+        object cbPerson: TComboBox
+          Align = Fit
+          Margins.Left = 6.000000000000000000
+          Margins.Top = -105.000000000000000000
+          Margins.Right = 6.000000000000000000
+          Size.Width = 336.000000000000000000
+          Size.Height = 35.200622558593750000
+          Size.PlatformDefault = False
+          TabOrder = 3
+          OnChange = cbPersonChange
+        end
+        object btnDelete: TButton
+          Anchors = [akTop, akRight]
+          Margins.Left = 250.000000000000000000
+          Margins.Right = 6.000000000000000000
+          Margins.Bottom = 200.000000000000000000
+          Position.X = 298.000000000000000000
+          Position.Y = 251.000000000000000000
+          Size.Width = 40.000000000000000000
+          Size.Height = 40.000000000000000000
+          Size.PlatformDefault = False
+          StyleLookup = 'stepperbuttonleft'
+          TabOrder = 4
+          Text = 'Button1'
+          OnClick = btnDeleteClick
+        end
+        object btnReport: TButton
+          Anchors = [akRight, akBottom]
+          StyledSettings = [Family]
+          ImageIndex = 1
+          Position.X = 223.000000000000000000
+          Position.Y = 522.000000000000000000
+          Size.Width = 120.000000000000000000
+          Size.Height = 40.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 10
+          Text = 'Report'
+          TextSettings.FontColor = xFF5EB3FE
+          OnClick = btnReportClick
+        end
+      end
+      object TabItem2: TTabItem
+        CustomIcon = <
+          item
+          end>
+        IsSelected = True
+        Size.Width = 69.000000000000000000
+        Size.Height = 26.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = ''
+        TabOrder = 0
+        Text = 'TabItem2'
+        ExplicitSize.cx = 69.000000000000000000
+        ExplicitSize.cy = 26.000000000000000000
+        object TMSFMXRadioGroup1: TTMSFMXRadioGroup
+          DisableFocusEffect = False
+          Position.X = 24.000000000000000000
+          Position.Y = 128.000000000000000000
+          TabOrder = 2
+          Size.Width = 300.000000000000000000
+          Size.Height = 185.000000000000000000
+          Size.PlatformDefault = False
+          Items = <
+            item
+            end
+            item
+            end>
+          Text = 'RadioGroup'
+          Version = '1.0.2.6'
+        end
+        object GroupBox1: TGroupBox
+          Position.X = 24.000000000000000000
+          Position.Y = 16.000000000000000000
+          Size.Width = 300.000000000000000000
+          Size.Height = 73.000000000000000000
+          Size.PlatformDefault = False
+          Text = 'Options'
+          TabOrder = 3
+          object Label1: TLabel
+            AutoSize = True
+            StyledSettings = [Family, Style, FontColor]
+            Position.X = 10.000000000000000000
+            Position.Y = 34.000000000000000000
+            Size.Width = 111.000000000000000000
+            Size.Height = 16.000000000000000000
+            Size.PlatformDefault = False
+            Text = 'Number of Hour'
+          end
+          object cbColumns: TComboBox
+            ItemIndex = 0
+            Position.X = 128.000000000000000000
+            Position.Y = 24.000000000000000000
+            Size.Width = 41.000000000000000000
+            Size.Height = 22.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 2
+            OnChange = cbColumnsChange
+            object TListBoxItem
+              IsSelected = True
+              Size.Width = 19.000000000000000000
+              Size.Height = 19.000000000000000000
+              Size.PlatformDefault = False
+              TabOrder = 0
+              Text = '1'
+            end
+            object TListBoxItem
+              Size.Width = 19.000000000000000000
+              Size.Height = 19.000000000000000000
+              Size.PlatformDefault = False
+              TabOrder = 1
+              Text = '2'
+            end
+            object TListBoxItem
+              TabOrder = 2
+              Text = '3'
+            end
+          end
+          object cbGroupCheck: TCheckBox
+            IsChecked = True
+            Position.X = 8.000000000000000000
+            Position.Y = 88.000000000000000000
+            Size.Width = 161.000000000000000000
+            Size.Height = 19.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 3
+            Text = 'Show GroupCheckBox'
+          end
+          object cbBitmaps: TCheckBox
+            IsChecked = True
+            Position.X = 8.000000000000000000
+            Position.Y = 56.000000000000000000
+            Size.Width = 120.000000000000000000
+            Size.Height = 19.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 1
+            Text = 'Show Bitmaps'
+          end
+        end
+        object memDesEvent: TMemo
+          Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+          DataDetectorTypes = []
+          StyledSettings = [Family, FontColor]
+          TextSettings.Font.Size = 20.000000000000000000
+          TextSettings.Font.StyleExt = {00070000000000000004000000}
+          Align = Bottom
+          Hint = 'Event Meeting Description'
+          Margins.Left = 6.000000000000000000
+          Margins.Right = 6.000000000000000000
+          Margins.Bottom = 6.000000000000000000
+          Position.X = 6.000000000000000000
+          Position.Y = 416.000000000000000000
+          Size.Width = 336.000000000000000000
+          Size.Height = 148.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+          Viewport.Width = 336.000000000000000000
+          Viewport.Height = 148.000000000000000000
+        end
+        object edtEventName: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Bottom
+          TabOrder = 4
+          Position.X = 6.000000000000000000
+          Position.Y = 388.000000000000000000
+          Hint = 'Event Meeting Name'
+          Margins.Left = 6.000000000000000000
+          Margins.Top = 6.000000000000000000
+          Margins.Right = 6.000000000000000000
+          Margins.Bottom = 6.000000000000000000
+          Size.Width = 336.000000000000000000
+          Size.Height = 22.000000000000000000
+          Size.PlatformDefault = False
+        end
+        object lblEvent: TLabel
+          AutoSize = True
+          StyledSettings = [Family, Style, FontColor]
+          Position.X = 8.000000000000000000
+          Position.Y = 316.000000000000000000
+          Size.Width = 111.000000000000000000
+          Size.Height = 16.000000000000000000
+          Size.PlatformDefault = False
+          Text = 'Event Meeting'
+          TabOrder = 5
+        end
+        object lblStatus: TLabel
+          Align = Top
+          Margins.Left = 3.000000000000000000
+          Margins.Top = 3.000000000000000000
+          Margins.Right = 3.000000000000000000
+          Margins.Bottom = 3.000000000000000000
+          Position.X = 3.000000000000000000
+          Position.Y = 3.000000000000000000
+          Size.Width = 342.000000000000000000
+          Size.Height = 17.000000000000000000
+          Size.PlatformDefault = False
+          Text = 'lblStatus'
+          TabOrder = 6
+        end
+      end
+    end
+  end
+  object Rectangle2: TRectangle
+    Align = Top
+    Fill.Color = claWhite
+    Size.Width = 348.000000000000000000
+    Size.Height = 81.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    object btnCrMeeting: TButton
+      Anchors = [akRight, akBottom]
+      StyledSettings = [Family, Size, Style]
+      ImageIndex = 0
+      Position.X = 225.000000000000000000
+      Position.Y = 41.000000000000000000
+      Size.Width = 120.000000000000000000
+      Size.Height = 40.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = 'Create'
+      TextSettings.FontColor = xFF5EB3FE
+      OnClick = btnCrMeetingClick
+    end
+    object btnBack: TButton
+      Anchors = [akLeft, akBottom]
+      StyledSettings = [Size, Style]
+      ImageIndex = 1
+      Position.X = 3.000000000000000000
+      Position.Y = 41.000000000000000000
+      Size.Width = 120.000000000000000000
+      Size.Height = 40.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = 'Back'
+      TextSettings.Font.Family = '(Default)'
+      TextSettings.FontColor = xFF5EB3FE
+      OnClick = btnBackClick
+    end
+  end
+end

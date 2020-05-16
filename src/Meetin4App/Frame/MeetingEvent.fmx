@@ -1,0 +1,140 @@
+object fraMeetingEvent: TfraMeetingEvent
+  Size.Width = 294.000000000000000000
+  Size.Height = 490.000000000000000000
+  Size.PlatformDefault = False
+  object Rectangle1: TRectangle
+    Align = Client
+    Fill.Color = xFF5EB3FE
+    Size.Width = 294.000000000000000000
+    Size.Height = 425.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    object grpBoxEvent: TGroupBox
+      Align = Client
+      StyledSettings = [Family, Size, Other]
+      Margins.Left = 3.000000000000000000
+      Margins.Top = 3.000000000000000000
+      Margins.Right = 3.000000000000000000
+      Margins.Bottom = 3.000000000000000000
+      Size.Width = 288.000000000000000000
+      Size.Height = 419.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Event'
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+      TextSettings.FontColor = claWhite
+      TabOrder = 0
+      object cbEvt2: TCheckBox
+        Align = Top
+        IsChecked = True
+        Margins.Left = 3.000000000000000000
+        Margins.Top = 3.000000000000000000
+        Margins.Right = 3.000000000000000000
+        Margins.Bottom = 3.000000000000000000
+        Position.X = 3.000000000000000000
+        Position.Y = 74.000000000000000000
+        Size.Width = 282.000000000000000000
+        Size.Height = 65.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 5
+        Text = 'Show GroupCheckBox'
+      end
+      object cbEvt1: TCheckBox
+        Align = Top
+        IsChecked = True
+        Margins.Left = 3.000000000000000000
+        Margins.Top = 3.000000000000000000
+        Margins.Right = 3.000000000000000000
+        Margins.Bottom = 3.000000000000000000
+        Position.X = 3.000000000000000000
+        Position.Y = 3.000000000000000000
+        Size.Width = 282.000000000000000000
+        Size.Height = 65.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 4
+        Text = 'Show Bitmaps'
+      end
+      object cbEvt3: TCheckBox
+        Align = Top
+        IsChecked = True
+        Margins.Left = 3.000000000000000000
+        Margins.Top = 3.000000000000000000
+        Margins.Right = 3.000000000000000000
+        Margins.Bottom = 3.000000000000000000
+        Position.X = 3.000000000000000000
+        Position.Y = 145.000000000000000000
+        Size.Width = 282.000000000000000000
+        Size.Height = 65.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 3
+        Text = 'Show Bitmaps'
+      end
+      object cbEvt4: TCheckBox
+        Align = Top
+        IsChecked = True
+        Margins.Left = 3.000000000000000000
+        Margins.Top = 3.000000000000000000
+        Margins.Right = 3.000000000000000000
+        Margins.Bottom = 3.000000000000000000
+        Position.X = 3.000000000000000000
+        Position.Y = 216.000000000000000000
+        Size.Width = 282.000000000000000000
+        Size.Height = 65.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 2
+        Text = 'Show Bitmaps'
+      end
+      object cbEvt5: TCheckBox
+        Align = Top
+        IsChecked = True
+        Margins.Left = 3.000000000000000000
+        Margins.Top = 3.000000000000000000
+        Margins.Right = 3.000000000000000000
+        Margins.Bottom = 3.000000000000000000
+        Position.X = 3.000000000000000000
+        Position.Y = 287.000000000000000000
+        Size.Width = 282.000000000000000000
+        Size.Height = 65.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        Text = 'Show Bitmaps'
+      end
+    end
+  end
+  object Rectangle2: TRectangle
+    Align = Top
+    Fill.Color = claWhite
+    Size.Width = 294.000000000000000000
+    Size.Height = 65.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    object btnSaveCalender: TButton
+      Anchors = [akRight, akBottom]
+      StyledSettings = [Family, Size, Style]
+      ImageIndex = 0
+      Position.X = 171.000000000000000000
+      Position.Y = 21.000000000000000000
+      Size.Width = 120.000000000000000000
+      Size.Height = 40.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = 'Save'
+      TextSettings.FontColor = xFF5EB3FE
+      OnClick = btnSaveCalenderClick
+    end
+    object btnBack: TButton
+      Anchors = [akLeft, akBottom]
+      StyledSettings = [Size, Style]
+      ImageIndex = 1
+      Position.X = 3.000000000000000000
+      Position.Y = 21.000000000000000000
+      Size.Width = 120.000000000000000000
+      Size.Height = 40.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = 'Back'
+      TextSettings.Font.Family = '(Default)'
+      TextSettings.FontColor = xFF5EB3FE
+      OnClick = btnBackClick
+    end
+  end
+end

@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{5EEDF501-8171-4E43-BF59-BF5BA953D420}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="M4Server\M4Server.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Meetin4App\Meeting4.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="M4Server">
+        <MSBuild Projects="M4Server\M4Server.dproj"/>
+    </Target>
+    <Target Name="M4Server:Clean">
+        <MSBuild Projects="M4Server\M4Server.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="M4Server:Make">
+        <MSBuild Projects="M4Server\M4Server.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Meeting4">
+        <MSBuild Projects="Meetin4App\Meeting4.dproj"/>
+    </Target>
+    <Target Name="Meeting4:Clean">
+        <MSBuild Projects="Meetin4App\Meeting4.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Meeting4:Make">
+        <MSBuild Projects="Meetin4App\Meeting4.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="M4Server;Meeting4"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="M4Server:Clean;Meeting4:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="M4Server:Make;Meeting4:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
