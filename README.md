@@ -1,4 +1,4 @@
-# Meeting4
+# Meeting 4
 Schedule a Meeting in Teams  | ANDROID & DESKTOP
 
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
