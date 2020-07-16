@@ -14,6 +14,14 @@
 ![](Meeting4.png)
 **Authors:**  *WalWalWalides*
 ------
+`Meeting 4` help programmer to get quickly information by windows service Error.
+
+
+Principal Software Benefits:
+
+     - Get instance information by new Meeting. 
+     
+     - Auto check from participant common free time to set the right Meeting time.
 
 ## Contains
 
