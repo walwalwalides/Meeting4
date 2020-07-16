@@ -14,7 +14,7 @@
 ![](Meeting4.png)
 **Authors:**  *WalWalWalides*
 ------
-`Meeting 4` help programmer to get quickly information by windows service Error.
+`Meeting 4`
 
 
 Principal Software Benefits:
