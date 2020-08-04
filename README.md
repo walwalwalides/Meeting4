@@ -1,5 +1,5 @@
 # Meeting 4
-- Schedule a Meeting in Teams  | ANDROID & DESKTOP
+> Schedule a Meeting in Teams  | ANDROID & DESKTOP
 
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
@@ -9,9 +9,10 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/walwalwalides/Meeting4)](https://github.com/walwalwalides/Meeting4/stargazers)
 
+<p align="center">
+<img src="Meeting4.png" />
+</p>
 
-
-![](Meeting4.png)
 **Authors:**  *WalWalWalides*
 ------
 `Meeting 4`
@@ -27,10 +28,11 @@ Principal Software Benefits:
 
 | File | Contents | 
 | --- | --- |
-| .gitignore | Git ignores the Files in this File |
 |[Meeting4_Desktop](https://github.com/walwalwalides/Meeting4/tree/master/Meeting4_Desktop)| Software Solution for Management Music Packages Format WAV.
 |[Meeting4_Mobile](https://github.com/walwalwalides/Meeting4/tree/master/Meeting4_Mobile)| Android Data Transfer Apps to Switch Packages Easily.
 | README.md | The Readme for this Project|
+| .gitignore | Git ignores the Files in this File |
+
 
 ------
 
