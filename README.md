@@ -28,8 +28,9 @@ Principal Software Benefits:
 
 | File | Contents | 
 | --- | --- |
-|[Meeting4_Desktop](https://github.com/walwalwalides/Meeting4/tree/master/Meeting4_Desktop)| Meeting 4 is software solution for schedule a meeting teams.
-|[Meeting4_Mobile](https://github.com/walwalwalides/Meeting4/tree/master/Meeting4_Mobile)| Meeting 4 is Android APP solution for schedule a meeting teams.
+|[Meeting4_Desktop](https://github.com/walwalwalides/Meeting4/tree/master/Meeting4_Desktop)| Meeting 4 (Executable file for Desktop).
+|[Meeting4_Mobile](https://github.com/walwalwalides/Meeting4/tree/master/Meeting4_Mobile)| Meeting 4 (Executable file for Android APP).
+|[Src](https://github.com/walwalwalides/Meeting4/tree/master/Meeting4_Mobile)| Meeting 4 Complete Source Code.
 | README.md | The Readme for this Project|
 | .gitignore | Git ignores the Files in this File |
 
